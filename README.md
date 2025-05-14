@@ -15,9 +15,9 @@
 <br>
 
 ### About Me 
-- 👨‍💻 Learning Web Development
-- 𝚿 Educational background in Psychology
-- 💼 Work experience in Tech-recruitment
+- 👨‍💻 Junior Web Developer
+- 𝚿  Educational background in Psychology
+- 💼 Previous experience in Tech-recruitment
 - 📍 Berlin-based
 - 🗣 Fluent in 🇬🇧 🇩🇪 🇸🇮
 
